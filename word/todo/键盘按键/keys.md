@@ -1,0 +1,16 @@
+- [ ] upper case, lowercase
+- [ ] caps lock
+- [ ] shift
+- [ ] control
+- [ ] windows
+- [ ] alt 
+- [ ] sapce
+- [ ] function, F1-F12
+- [ ] backsapce
+- [ ] del 
+- [ ] ins
+- [ ] home, end
+- [ ] pageup, pagedown
+- [ ] printscreen
+- [ ] arrow key
+- [ ] esc
