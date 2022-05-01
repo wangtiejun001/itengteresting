@@ -1,10 +1,10 @@
-- [ ] upper case, lowercase
+- [x] upper case, lowercase
 - [ ] caps lock
 - [ ] shift
 - [ ] control
 - [ ] windows
 - [ ] alt 
-- [ ] sapce
+- [ ] space
 - [ ] function, F1-F12
 - [ ] backsapce
 - [ ] del 

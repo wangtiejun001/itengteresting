@@ -1,0 +1,3 @@
+little endian
+big endian
+
