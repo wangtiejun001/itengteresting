@@ -1,4 +1,7 @@
 
+## 键盘符号：
+http://www.clipartden.com/freeclipart/computer/computer/keyboardkeys1.html
+
 # Word
 > 大家好，欢迎来到我的IT 趣英语，今天我们说 Word
 

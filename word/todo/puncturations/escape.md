@@ -9,6 +9,8 @@
 Escape: 在键盘的左上角，简称ESC
 它在程序中，和生活中一个意思，都是跳出，逃跑。
 
+![apple keyboard](https://m.media-amazon.com/images/I/71RlPPhBpQL._AC_SL1500_.jpg)
+
 ---
 单词分解，词根
 es: out of 

@@ -2,16 +2,13 @@
 # @
 > 大家好，欢迎来到我的IT 趣英语，今天我们说 @
 
-[图片]
+![图片](https://raw.githubusercontent.com/wangtiejun001/images_markdown/master/uPic/2_-removebg-preview.png)
 ---
 @ 符号的读法
 - at sign
 - commercial at
 - address sign
 
-你个孔乙己，净说些没用的，我了解这个干嘛。
-在IT 趣英语，不说没用的。
-往下看：
 --- 
 ## 场景: 商务记账
 @ 本来在英文中是没有对应的叫法的。
